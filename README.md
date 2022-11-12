@@ -1,5 +1,5 @@
 ## E-Commerce Store
-[Essence](https://github.com/xcrackerx) - An e-commerce store for selling fragrances
+[Essence](https://essence-ecommerce.netlify.app/) - An e-commerce store for selling fragrances
 
 ## Features
 
@@ -22,3 +22,14 @@
 - [Capture UI](https://capture-ui.netlify.app/) - CSS Component Library
 - React Hot Toast 
 
+##Run
+
+- Create a .env file
+  REACT_APP_JWT_SECRET='add the secret key'
+- npm i
+- npm start
+
+## Deploy
+
+- Deployed using [Netlify](https://www.netlify.com/)
+- [Live Demo](https://essence-ecommerce.netlify.app/)
