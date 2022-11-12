@@ -22,7 +22,7 @@
 - [Capture UI](https://capture-ui.netlify.app/) - CSS Component Library
 - React Hot Toast 
 
-##Run
+## Run
 
 - Create a .env file
   REACT_APP_JWT_SECRET='add the secret key'
