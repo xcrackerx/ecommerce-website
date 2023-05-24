@@ -19,7 +19,7 @@
 - React Router v6
 - React Context API and useReducer
 - MockBee
-- [Capture UI](https://capture-ui.netlify.app/) - CSS Component Library
+- Capture UI - CSS Component Library
 - React Hot Toast 
 
 ## Run
